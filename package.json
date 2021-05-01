@@ -2,8 +2,9 @@
 	
 
 	{
-	"author":  "Joe La",	
+	
 	"name": "fcc-learn-npm-package-json",
+	"author":  "Joe La",	
 	"dependencies": {
 		"express": "^4.14.0"
 	},
